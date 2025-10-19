@@ -1,0 +1,12 @@
+C:\Users\syaki\source\repos\CountryFlag\bin\Debug\CountryFlag.exe.config
+C:\Users\syaki\source\repos\CountryFlag\bin\Debug\CountryFlag.exe
+C:\Users\syaki\source\repos\CountryFlag\bin\Debug\CountryFlag.pdb
+C:\Users\syaki\source\repos\CountryFlag\bin\Debug\CountryFlag.xml
+C:\Users\syaki\source\repos\CountryFlag\obj\Debug\CountryFlag.vbproj.AssemblyReference.cache
+C:\Users\syaki\source\repos\CountryFlag\obj\Debug\CountryFlag.Form1.resources
+C:\Users\syaki\source\repos\CountryFlag\obj\Debug\CountryFlag.Resources.resources
+C:\Users\syaki\source\repos\CountryFlag\obj\Debug\CountryFlag.vbproj.GenerateResource.cache
+C:\Users\syaki\source\repos\CountryFlag\obj\Debug\CountryFlag.vbproj.CoreCompileInputs.cache
+C:\Users\syaki\source\repos\CountryFlag\obj\Debug\CountryFlag.exe
+C:\Users\syaki\source\repos\CountryFlag\obj\Debug\CountryFlag.xml
+C:\Users\syaki\source\repos\CountryFlag\obj\Debug\CountryFlag.pdb
